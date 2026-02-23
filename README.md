@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/thakurrisu/LeetCode---Java/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/thakurrisu/LeetCode---Java/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/thakurrisu/LeetCode---Java/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/thakurrisu/LeetCode---Java/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/thakurrisu/LeetCode---Java/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
