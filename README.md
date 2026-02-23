@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/thakurrisu/LeetCode---Java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/thakurrisu/LeetCode---Java/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/thakurrisu/LeetCode---Java/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/thakurrisu/LeetCode---Java/tree/master/0128-longest-consecutive-sequence) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/thakurrisu/LeetCode---Java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/thakurrisu/LeetCode---Java/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/thakurrisu/LeetCode---Java/tree/master/0118-pascals-triangle) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/thakurrisu/LeetCode---Java/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
