@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/thakurrisu/LeetCode---Java/tree/master/0054-spiral-matrix) |
+| [0118-pascals-triangle](https://github.com/thakurrisu/LeetCode---Java/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/thakurrisu/LeetCode---Java/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/thakurrisu/LeetCode---Java/tree/master/0054-spiral-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/thakurrisu/LeetCode---Java/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
