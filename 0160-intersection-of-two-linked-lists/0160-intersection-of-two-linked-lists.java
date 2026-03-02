@@ -17,15 +17,27 @@ public class Solution {
         //by switching each list will travel m-c + c +n-c before reaching common 
 
 
-        ListNode first = headA , second = headB;
-        while(first!=null || second!= null ){
-           if(first == second) return first;
-           first = first.next;
-           second = second.next;
-           if(first == null && second!=null) first = headB;
-           if(second == null && first!=null) second = headA;
-           
-         }
-        return null;
+         if (headA == null || headB == null) return null;
+
+        // Initialize two pointers to traverse the lists
+        ListNode d1 = headA;
+        ListNode d2 = headB;
+
+        // Traverse both lists until the pointers meet
+        while (d1 != d2) {
+            // Move both the pointers by one place
+            d1 = d1.next;
+            d2 = d2.next;
+
+            // If intersection is found
+            if (d1 == d2) return d1;
+
+            // If either of the two pointers reaches end, place at the front of next linked list 
+            if (d1 == null) d1 = headB;
+            if (d2 == null) d2 = headA;
+        }
+
+        // Return the intersection node
+        return d1;
     }
 }
