@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/thakurrisu/LeetCode---Java/tree/master/0128-longest-consecutive-sequence) |
+| [0142-linked-list-cycle-ii](https://github.com/thakurrisu/LeetCode---Java/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/thakurrisu/LeetCode---Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/thakurrisu/LeetCode---Java/tree/master/0229-majority-element-ii) |
 ## Union-Find
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/thakurrisu/LeetCode---Java/tree/master/0015-3sum) |
+| [0142-linked-list-cycle-ii](https://github.com/thakurrisu/LeetCode---Java/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/thakurrisu/LeetCode---Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/thakurrisu/LeetCode---Java/tree/master/0234-palindrome-linked-list) |
 ## Sorting
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/thakurrisu/LeetCode---Java/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/thakurrisu/LeetCode---Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/thakurrisu/LeetCode---Java/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/thakurrisu/LeetCode---Java/tree/master/0234-palindrome-linked-list) |
