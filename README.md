@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/thakurrisu/LeetCode---Java/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/thakurrisu/LeetCode---Java/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/thakurrisu/LeetCode---Java/tree/master/0229-majority-element-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/thakurrisu/LeetCode---Java/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,4 +73,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/thakurrisu/LeetCode---Java/tree/master/0234-palindrome-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/thakurrisu/LeetCode---Java/tree/master/1004-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/thakurrisu/LeetCode---Java/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/thakurrisu/LeetCode---Java/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
