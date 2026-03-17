@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/thakurrisu/LeetCode---Java/tree/master/0229-majority-element-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/thakurrisu/LeetCode---Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/thakurrisu/LeetCode---Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3861-minimum-capacity-box](https://github.com/thakurrisu/LeetCode---Java/tree/master/3861-minimum-capacity-box) |
 ## Hash Table
 |  |
 | ------- |
