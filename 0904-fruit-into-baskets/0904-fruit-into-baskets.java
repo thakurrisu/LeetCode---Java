@@ -15,11 +15,12 @@ class Solution {
                     }      
             }
             m.put(fruits[j],m.getOrDefault(fruits[j],0)+1);
+            max = Math.max(max,j-i+1);
             j++;
-            int sum =0;
-            for(int val:m.values())
-              sum += val;
-            max = Math.max(max,sum);
+            // int sum =0;
+            // for(int val:m.values())
+            //   sum += val;
+           
         }
         return max;
     }
