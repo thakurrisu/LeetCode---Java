@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/thakurrisu/LeetCode---Java/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/thakurrisu/LeetCode---Java/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/thakurrisu/LeetCode---Java/tree/master/0229-majority-element-ii) |
+| [0904-fruit-into-baskets](https://github.com/thakurrisu/LeetCode---Java/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/thakurrisu/LeetCode---Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/thakurrisu/LeetCode---Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3861-minimum-capacity-box](https://github.com/thakurrisu/LeetCode---Java/tree/master/3861-minimum-capacity-box) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/thakurrisu/LeetCode---Java/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/thakurrisu/LeetCode---Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/thakurrisu/LeetCode---Java/tree/master/0229-majority-element-ii) |
+| [0904-fruit-into-baskets](https://github.com/thakurrisu/LeetCode---Java/tree/master/0904-fruit-into-baskets) |
 ## Union-Find
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/thakurrisu/LeetCode---Java/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/thakurrisu/LeetCode---Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/thakurrisu/LeetCode---Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
