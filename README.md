@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/thakurrisu/LeetCode---Java/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/thakurrisu/LeetCode---Java/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/thakurrisu/LeetCode---Java/tree/master/0229-majority-element-ii) |
+| [0435-non-overlapping-intervals](https://github.com/thakurrisu/LeetCode---Java/tree/master/0435-non-overlapping-intervals) |
 | [0904-fruit-into-baskets](https://github.com/thakurrisu/LeetCode---Java/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/thakurrisu/LeetCode---Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/thakurrisu/LeetCode---Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/thakurrisu/LeetCode---Java/tree/master/0118-pascals-triangle) |
+| [0435-non-overlapping-intervals](https://github.com/thakurrisu/LeetCode---Java/tree/master/0435-non-overlapping-intervals) |
 ## Math
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/thakurrisu/LeetCode---Java/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/thakurrisu/LeetCode---Java/tree/master/0229-majority-element-ii) |
+| [0435-non-overlapping-intervals](https://github.com/thakurrisu/LeetCode---Java/tree/master/0435-non-overlapping-intervals) |
 ## Counting
 |  |
 | ------- |
@@ -92,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/thakurrisu/LeetCode---Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/thakurrisu/LeetCode---Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/thakurrisu/LeetCode---Java/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
