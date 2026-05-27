@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/thakurrisu/LeetCode---Java/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/thakurrisu/LeetCode---Java/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/thakurrisu/LeetCode---Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/thakurrisu/LeetCode---Java/tree/master/0435-non-overlapping-intervals) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/thakurrisu/LeetCode---Java/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/thakurrisu/LeetCode---Java/tree/master/0070-climbing-stairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/thakurrisu/LeetCode---Java/tree/master/0020-valid-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/thakurrisu/LeetCode---Java/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
