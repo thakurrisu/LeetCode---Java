@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/thakurrisu/LeetCode---Java/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/thakurrisu/LeetCode---Java/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
 |  |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/thakurrisu/LeetCode---Java/tree/master/0101-symmetric-tree) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/thakurrisu/LeetCode---Java/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
