@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/thakurrisu/LeetCode---Java/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/thakurrisu/LeetCode---Java/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/thakurrisu/LeetCode---Java/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0338-counting-bits](https://github.com/thakurrisu/LeetCode---Java/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/thakurrisu/LeetCode---Java/tree/master/0435-non-overlapping-intervals) |
 ## Math
 |  |
@@ -161,4 +162,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/thakurrisu/LeetCode---Java/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/thakurrisu/LeetCode---Java/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/thakurrisu/LeetCode---Java/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
