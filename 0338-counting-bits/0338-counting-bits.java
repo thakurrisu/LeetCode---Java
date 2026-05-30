@@ -11,7 +11,7 @@ class Solution {
                 curr = i;
                 ans[i]  = 1;
             } else {
-              ans[i] =  ans[i/curr] + ans[i%curr];
+              ans[i] =  1 + ans[i%curr];
             }
         }
      }  
