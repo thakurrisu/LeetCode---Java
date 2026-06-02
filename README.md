@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/thakurrisu/LeetCode---Java/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/thakurrisu/LeetCode---Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/thakurrisu/LeetCode---Java/tree/master/0543-diameter-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/thakurrisu/LeetCode---Java/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/thakurrisu/LeetCode---Java/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/thakurrisu/LeetCode---Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/thakurrisu/LeetCode---Java/tree/master/0543-diameter-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/thakurrisu/LeetCode---Java/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -163,4 +165,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/thakurrisu/LeetCode---Java/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/thakurrisu/LeetCode---Java/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/thakurrisu/LeetCode---Java/tree/master/0338-counting-bits) |
+## Design
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/thakurrisu/LeetCode---Java/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/thakurrisu/LeetCode---Java/tree/master/0703-kth-largest-element-in-a-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/thakurrisu/LeetCode---Java/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/thakurrisu/LeetCode---Java/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
