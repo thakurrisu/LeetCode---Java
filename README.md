@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/thakurrisu/LeetCode---Java/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/thakurrisu/LeetCode---Java/tree/master/0435-non-overlapping-intervals) |
 | [0704-binary-search](https://github.com/thakurrisu/LeetCode---Java/tree/master/0704-binary-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/thakurrisu/LeetCode---Java/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/thakurrisu/LeetCode---Java/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/thakurrisu/LeetCode---Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/thakurrisu/LeetCode---Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/thakurrisu/LeetCode---Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/thakurrisu/LeetCode---Java/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/thakurrisu/LeetCode---Java/tree/master/0435-non-overlapping-intervals) |
+| [0746-min-cost-climbing-stairs](https://github.com/thakurrisu/LeetCode---Java/tree/master/0746-min-cost-climbing-stairs) |
 ## Math
 |  |
 | ------- |
